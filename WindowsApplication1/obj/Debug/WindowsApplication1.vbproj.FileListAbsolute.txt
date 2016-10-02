@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\metablind.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.aboutvb.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.donate.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\metablind.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\metablind.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\metablind.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\metablind.pdb
